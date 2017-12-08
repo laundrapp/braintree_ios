@@ -1,0 +1,1398 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/dmerino/work/braintree-ios/Braintree3DSecure/Public/BTThreeDSecureCardNonce.h",
+      "line": 9,
+      "symbol": "BTThreeDSecureCardNonce",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/Braintree3DSecure/Public/BTThreeDSecureCardNonce.h",
+      "line": 11,
+      "symbol": "BTThreeDSecureCardNonce.liabilityShifted",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/Braintree3DSecure/Public/BTThreeDSecureCardNonce.h",
+      "line": 12,
+      "symbol": "BTThreeDSecureCardNonce.liabilityShiftPossible",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/Braintree3DSecure/Public/BTThreeDSecureCardNonce.h",
+      "line": 16,
+      "symbol": "BTThreeDSecureCardNonce.-initWithNonce:description:cardNetwork:lastTwo:threeDSecureJSON:isDefault:cardJSON:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/Braintree3DSecure/Public/BTThreeDSecureDriver.h",
+      "line": 60,
+      "symbol": "BTThreeDSecureDriver.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/Braintree3DSecure/Public/BTThreeDSecureErrors.h",
+      "line": 9,
+      "symbol": "BTThreeDSecureInfoKey",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/Braintree3DSecure/Public/BTThreeDSecureErrors.h",
+      "line": 10,
+      "symbol": "BTThreeDSecureValidationErrorsKey",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/Braintree3DSecure/Public/BTThreeDSecureErrors.h",
+      "line": 17,
+      "symbol": "BTThreeDSecureErrorType.BTThreeDSecureErrorTypeUnknown",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/Braintree3DSecure/Public/Braintree3DSecure.h",
+      "line": 3,
+      "symbol": "Braintree3DSecureVersionNumber",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/Braintree3DSecure/Public/Braintree3DSecure.h",
+      "line": 5,
+      "symbol": "Braintree3DSecureVersionString",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeAmericanExpress/Public/BTAmericanExpressClient.h",
+      "line": 10,
+      "symbol": "BTAmericanExpressErrorDomain",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeAmericanExpress/Public/BTAmericanExpressClient.h",
+      "line": 11,
+      "symbol": "BTAmericanExpressErrorType",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeAmericanExpress/Public/BTAmericanExpressClient.h",
+      "line": 11,
+      "symbol": "BTAmericanExpressErrorType",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeAmericanExpress/Public/BTAmericanExpressClient.h",
+      "line": 12,
+      "symbol": "BTAmericanExpressErrorType.BTAmericanExpressErrorTypeUnknown",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeAmericanExpress/Public/BTAmericanExpressClient.h",
+      "line": 15,
+      "symbol": "BTAmericanExpressClient",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeAmericanExpress/Public/BTAmericanExpressClient.h",
+      "line": 25,
+      "symbol": "BTAmericanExpressClient.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeAmericanExpress/Public/BTAmericanExpressRewardsBalance.h",
+      "line": 10,
+      "symbol": "BTAmericanExpressRewardsBalance",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeAmericanExpress/Public/BraintreeAmericanExpress.h",
+      "line": 3,
+      "symbol": "BraintreeAmericanExpressVersionNumber",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeAmericanExpress/Public/BraintreeAmericanExpress.h",
+      "line": 5,
+      "symbol": "BraintreeAmericanExpressVersionString",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeApplePay/Public/BTApplePayCardNonce.h",
+      "line": 10,
+      "symbol": "BTApplePayCardNonce",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeApplePay/Public/BTApplePayCardNonce.h",
+      "line": 17,
+      "symbol": "BTApplePayCardNonce.-initWithNonce:localizedDescription:type:json:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeApplePay/Public/BTApplePayClient.h",
+      "line": 12,
+      "symbol": "BTApplePayErrorDomain",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeApplePay/Public/BTApplePayClient.h",
+      "line": 13,
+      "symbol": "BTApplePayErrorType",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeApplePay/Public/BTApplePayClient.h",
+      "line": 13,
+      "symbol": "BTApplePayErrorType",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeApplePay/Public/BTApplePayClient.h",
+      "line": 14,
+      "symbol": "BTApplePayErrorType.BTApplePayErrorTypeUnknown",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeApplePay/Public/BTApplePayClient.h",
+      "line": 23,
+      "symbol": "BTApplePayClient",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeApplePay/Public/BTApplePayClient.h",
+      "line": 33,
+      "symbol": "BTApplePayClient.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeApplePay/Public/BTConfiguration+ApplePay.h",
+      "line": 8,
+      "symbol": "BTConfiguration(ApplePay)",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.category",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeApplePay/Public/BraintreeApplePay.h",
+      "line": 3,
+      "symbol": "BraintreeApplePayVersionNumber",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeApplePay/Public/BraintreeApplePay.h",
+      "line": 5,
+      "symbol": "BraintreeApplePayVersionString",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCard/Public/BTCard.h",
+      "line": 19,
+      "symbol": "BTCard.-initWithParameters:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCard/Public/BTCardClient.h",
+      "line": 14,
+      "symbol": "BTCardClientErrorDomain",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCard/Public/BTCardClient.h",
+      "line": 16,
+      "symbol": "BTCardClientErrorType",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCard/Public/BTCardClient.h",
+      "line": 16,
+      "symbol": "BTCardClientErrorType",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCard/Public/BTCardClient.h",
+      "line": 17,
+      "symbol": "BTCardClientErrorType.BTCardClientErrorTypeUnknown",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCard/Public/BTCardClient.h",
+      "line": 29,
+      "symbol": "BTCardClient",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCard/Public/BTCardClient.h",
+      "line": 38,
+      "symbol": "BTCardClient.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCard/Public/BTCardNonce.h",
+      "line": 10,
+      "symbol": "BTCardNonce",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCard/Public/BTCardRequest.h",
+      "line": 6,
+      "symbol": "BTCardRequest",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCard/Public/BTCardRequest.h",
+      "line": 8,
+      "symbol": "BTCardRequest.-initWithCard:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCard/Public/BTCardRequest.h",
+      "line": 10,
+      "symbol": "BTCardRequest.card",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCard/Public/BraintreeCard.h",
+      "line": 3,
+      "symbol": "BraintreeCardVersionNumber",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCard/Public/BraintreeCard.h",
+      "line": 5,
+      "symbol": "BraintreeCardVersionString",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTAPIClient.h",
+      "line": 10,
+      "symbol": "BTAPIClientErrorDomain",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTAPIClient.h",
+      "line": 12,
+      "symbol": "BTAPIClientErrorType",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTAPIClient.h",
+      "line": 12,
+      "symbol": "BTAPIClientErrorType",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTAPIClient.h",
+      "line": 13,
+      "symbol": "BTAPIClientErrorType.BTAPIClientErrorTypeUnknown",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTAPIClient.h",
+      "line": 108,
+      "symbol": "BTAPIClient.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTAppSwitch.h",
+      "line": 67,
+      "symbol": "BTAppSwitch.-handleOpenURL:sourceApplication:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTAppSwitch.h",
+      "line": 73,
+      "symbol": "BTAppSwitchWillSwitchNotification",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTAppSwitch.h",
+      "line": 74,
+      "symbol": "BTAppSwitchDidSwitchNotification",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTAppSwitch.h",
+      "line": 75,
+      "symbol": "BTAppSwitchWillProcessPaymentInfoNotification",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTAppSwitch.h",
+      "line": 76,
+      "symbol": "BTAppSwitchNotificationTargetKey",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTAppSwitch.h",
+      "line": 82,
+      "symbol": "BTAppSwitchTarget.BTAppSwitchTargetUnknown",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTBinData.h",
+      "line": 6,
+      "symbol": "BTBinData",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientMetadata.h",
+      "line": 3,
+      "symbol": "BTClientMetadataSourceType",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientMetadata.h",
+      "line": 3,
+      "symbol": "BTClientMetadataSourceType",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientMetadata.h",
+      "line": 4,
+      "symbol": "BTClientMetadataSourceType.BTClientMetadataSourceUnknown",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientMetadata.h",
+      "line": 5,
+      "symbol": "BTClientMetadataSourceType.BTClientMetadataSourcePayPalApp",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientMetadata.h",
+      "line": 6,
+      "symbol": "BTClientMetadataSourceType.BTClientMetadataSourcePayPalBrowser",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientMetadata.h",
+      "line": 7,
+      "symbol": "BTClientMetadataSourceType.BTClientMetadataSourceVenmoApp",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientMetadata.h",
+      "line": 8,
+      "symbol": "BTClientMetadataSourceType.BTClientMetadataSourceForm",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientMetadata.h",
+      "line": 11,
+      "symbol": "BTClientMetadataIntegrationType",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientMetadata.h",
+      "line": 11,
+      "symbol": "BTClientMetadataIntegrationType",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientMetadata.h",
+      "line": 12,
+      "symbol": "BTClientMetadataIntegrationType.BTClientMetadataIntegrationCustom",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientMetadata.h",
+      "line": 13,
+      "symbol": "BTClientMetadataIntegrationType.BTClientMetadataIntegrationDropIn",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientMetadata.h",
+      "line": 14,
+      "symbol": "BTClientMetadataIntegrationType.BTClientMetadataIntegrationDropIn2",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientMetadata.h",
+      "line": 15,
+      "symbol": "BTClientMetadataIntegrationType.BTClientMetadataIntegrationUnknown",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientMetadata.h",
+      "line": 36,
+      "symbol": "BTClientMetadata.integration",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientMetadata.h",
+      "line": 37,
+      "symbol": "BTClientMetadata.source",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientMetadata.h",
+      "line": 46,
+      "symbol": "BTClientMetadata.integrationString",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientMetadata.h",
+      "line": 47,
+      "symbol": "BTClientMetadata.sourceString",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientMetadata.h",
+      "line": 48,
+      "symbol": "BTClientMetadata.parameters",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientMetadata.h",
+      "line": 52,
+      "symbol": "BTMutableClientMetadata",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientMetadata.h",
+      "line": 54,
+      "symbol": "BTMutableClientMetadata.-setIntegration:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientMetadata.h",
+      "line": 55,
+      "symbol": "BTMutableClientMetadata.-setSource:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientMetadata.h",
+      "line": 56,
+      "symbol": "BTMutableClientMetadata.-setSessionId:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientToken.h",
+      "line": 6,
+      "symbol": "BTClientTokenKeyVersion",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientToken.h",
+      "line": 7,
+      "symbol": "BTClientTokenErrorDomain",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientToken.h",
+      "line": 8,
+      "symbol": "BTClientTokenKeyAuthorizationFingerprint",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientToken.h",
+      "line": 9,
+      "symbol": "BTClientTokenKeyConfigURL",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientToken.h",
+      "line": 11,
+      "symbol": "BTClientTokenError",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientToken.h",
+      "line": 11,
+      "symbol": "BTClientTokenError",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientToken.h",
+      "line": 12,
+      "symbol": "BTClientTokenError.BTClientTokenErrorUnknown",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientToken.h",
+      "line": 13,
+      "symbol": "BTClientTokenError.BTClientTokenErrorInvalid",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientToken.h",
+      "line": 14,
+      "symbol": "BTClientTokenError.BTClientTokenErrorUnsupportedVersion",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientToken.h",
+      "line": 17,
+      "symbol": "BTClientToken",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTClientToken.h",
+      "line": 46,
+      "symbol": "BTClientToken.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTConfiguration.h",
+      "line": 6,
+      "symbol": "BTConfiguration",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTConfiguration.h",
+      "line": 8,
+      "symbol": "BTConfiguration.-initWithJSON:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTConfiguration.h",
+      "line": 17,
+      "symbol": "BTConfiguration.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTEnums.h",
+      "line": 5,
+      "symbol": "BTCardNetwork.BTCardNetworkUnknown",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTEnums.h",
+      "line": 6,
+      "symbol": "BTCardNetwork.BTCardNetworkAMEX",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTEnums.h",
+      "line": 7,
+      "symbol": "BTCardNetwork.BTCardNetworkDinersClub",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTEnums.h",
+      "line": 8,
+      "symbol": "BTCardNetwork.BTCardNetworkDiscover",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTEnums.h",
+      "line": 9,
+      "symbol": "BTCardNetwork.BTCardNetworkMasterCard",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTEnums.h",
+      "line": 10,
+      "symbol": "BTCardNetwork.BTCardNetworkVisa",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTEnums.h",
+      "line": 11,
+      "symbol": "BTCardNetwork.BTCardNetworkJCB",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTEnums.h",
+      "line": 12,
+      "symbol": "BTCardNetwork.BTCardNetworkLaser",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTEnums.h",
+      "line": 13,
+      "symbol": "BTCardNetwork.BTCardNetworkMaestro",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTEnums.h",
+      "line": 14,
+      "symbol": "BTCardNetwork.BTCardNetworkUnionPay",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTEnums.h",
+      "line": 15,
+      "symbol": "BTCardNetwork.BTCardNetworkSolo",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTEnums.h",
+      "line": 16,
+      "symbol": "BTCardNetwork.BTCardNetworkSwitch",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTEnums.h",
+      "line": 17,
+      "symbol": "BTCardNetwork.BTCardNetworkUKMaestro",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTJSON.h",
+      "line": 5,
+      "symbol": "BTJSONErrorDomain",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTJSON.h",
+      "line": 7,
+      "symbol": "BTJSONErrorCode",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTJSON.h",
+      "line": 7,
+      "symbol": "BTJSONErrorCode",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTJSON.h",
+      "line": 8,
+      "symbol": "BTJSONErrorCode.BTJSONErrorValueUnknown",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTJSON.h",
+      "line": 9,
+      "symbol": "BTJSONErrorCode.BTJSONErrorValueInvalid",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTJSON.h",
+      "line": 10,
+      "symbol": "BTJSONErrorCode.BTJSONErrorAccessInvalid",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTJSON.h",
+      "line": 56,
+      "symbol": "BTJSON.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTJSON.h",
+      "line": 58,
+      "symbol": "BTJSON.-initWithValue:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTJSON.h",
+      "line": 60,
+      "symbol": "BTJSON.-initWithData:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTJSON.h",
+      "line": 82,
+      "symbol": "BTJSON.-asError",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTJSON.h",
+      "line": 87,
+      "symbol": "BTJSON.-asPrettyJSONAndReturnError:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTJSON.h",
+      "line": 93,
+      "symbol": "BTJSON.-asArray",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTJSON.h",
+      "line": 95,
+      "symbol": "BTJSON.-asNumber",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTJSON.h",
+      "line": 101,
+      "symbol": "BTJSON.-asStringArray",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTJSON.h",
+      "line": 103,
+      "symbol": "BTJSON.-asDictionary",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTJSON.h",
+      "line": 105,
+      "symbol": "BTJSON.-asIntegerOrZero",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTJSON.h",
+      "line": 107,
+      "symbol": "BTJSON.-asEnum:orDefault:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTJSON.h",
+      "line": 113,
+      "symbol": "BTJSON.isNumber",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTJSON.h",
+      "line": 115,
+      "symbol": "BTJSON.isArray",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTJSON.h",
+      "line": 117,
+      "symbol": "BTJSON.isObject",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTJSON.h",
+      "line": 119,
+      "symbol": "BTJSON.isTrue",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTJSON.h",
+      "line": 121,
+      "symbol": "BTJSON.isFalse",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTJSON.h",
+      "line": 123,
+      "symbol": "BTJSON.isNull",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTPostalAddress.h",
+      "line": 5,
+      "symbol": "BTPostalAddress",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTTokenizationService.h",
+      "line": 7,
+      "symbol": "BTTokenizationServiceErrorDomain",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTTokenizationService.h",
+      "line": 8,
+      "symbol": "BTTokenizationServiceAppSwitchDelegateOption",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTTokenizationService.h",
+      "line": 9,
+      "symbol": "BTTokenizationServiceViewPresentingDelegateOption",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTTokenizationService.h",
+      "line": 10,
+      "symbol": "BTTokenizationServicePayPalScopesOption",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTTokenizationService.h",
+      "line": 11,
+      "symbol": "BTTokenizationServiceAmountOption",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTTokenizationService.h",
+      "line": 12,
+      "symbol": "BTTokenizationServiceNonceOption",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTTokenizationService.h",
+      "line": 14,
+      "symbol": "BTTokenizationServiceError",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTTokenizationService.h",
+      "line": 14,
+      "symbol": "BTTokenizationServiceError",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTTokenizationService.h",
+      "line": 15,
+      "symbol": "BTTokenizationServiceError.BTTokenizationServiceErrorUnknown",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTTokenizationService.h",
+      "line": 16,
+      "symbol": "BTTokenizationServiceError.BTTokenizationServiceErrorTypeNotRegistered",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeCore/Public/BTTokenizationService.h",
+      "line": 72,
+      "symbol": "BTTokenizationService.allTypes",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeDataCollector/Public/BTDataCollector.h",
+      "line": 9,
+      "symbol": "BTDataCollectorEnvironment",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeDataCollector/Public/BTDataCollector.h",
+      "line": 9,
+      "symbol": "BTDataCollectorEnvironment",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeDataCollector/Public/BTDataCollector.h",
+      "line": 10,
+      "symbol": "BTDataCollectorEnvironment.BTDataCollectorEnvironmentDevelopment",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeDataCollector/Public/BTDataCollector.h",
+      "line": 11,
+      "symbol": "BTDataCollectorEnvironment.BTDataCollectorEnvironmentQA",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeDataCollector/Public/BTDataCollector.h",
+      "line": 12,
+      "symbol": "BTDataCollectorEnvironment.BTDataCollectorEnvironmentSandbox",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeDataCollector/Public/BTDataCollector.h",
+      "line": 13,
+      "symbol": "BTDataCollectorEnvironment.BTDataCollectorEnvironmentProduction",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeDataCollector/Public/BTDataCollector.h",
+      "line": 20,
+      "symbol": "BTDataCollectorKountErrorDomain",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeDataCollector/Public/BraintreeDataCollector.h",
+      "line": 3,
+      "symbol": "BraintreeDataCollectorVersionNumber",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeDataCollector/Public/BraintreeDataCollector.h",
+      "line": 5,
+      "symbol": "BraintreeDataCollectorVersionString",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePayPal/Public/BTConfiguration+PayPal.h",
+      "line": 7,
+      "symbol": "BTConfiguration(PayPal)",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.category",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePayPal/Public/BTConfiguration+PayPal.h",
+      "line": 13,
+      "symbol": "BTConfiguration.isBillingAgreementsEnabled",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePayPal/Public/BTPayPalAccountNonce.h",
+      "line": 9,
+      "symbol": "BTPayPalAccountNonce",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePayPal/Public/BTPayPalCreditFinancing.h",
+      "line": 8,
+      "symbol": "BTPayPalCreditFinancingAmount",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePayPal/Public/BTPayPalCreditFinancing.h",
+      "line": 22,
+      "symbol": "BTPayPalCreditFinancing",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePayPal/Public/BTPayPalDriver.h",
+      "line": 14,
+      "symbol": "BTPayPalDriverErrorDomain",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePayPal/Public/BTPayPalDriver.h",
+      "line": 16,
+      "symbol": "BTPayPalDriverErrorType",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePayPal/Public/BTPayPalDriver.h",
+      "line": 16,
+      "symbol": "BTPayPalDriverErrorType",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePayPal/Public/BTPayPalDriver.h",
+      "line": 17,
+      "symbol": "BTPayPalDriverErrorType.BTPayPalDriverErrorTypeUnknown",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePayPal/Public/BTPayPalDriver.h",
+      "line": 129,
+      "symbol": "BTPayPalDriver.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePayPal/Public/BTPayPalRequest.h",
+      "line": 19,
+      "symbol": "BTPayPalRequestIntent.BTPayPalRequestIntentAuthorize",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePayPal/Public/BTPayPalRequest.h",
+      "line": 20,
+      "symbol": "BTPayPalRequestIntent.BTPayPalRequestIntentSale",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePayPal/Public/BTPayPalRequest.h",
+      "line": 21,
+      "symbol": "BTPayPalRequestIntent.BTPayPalRequestIntentOrder",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePayPal/Public/BTPayPalRequest.h",
+      "line": 28,
+      "symbol": "BTPayPalRequestLandingPageType.BTPayPalRequestLandingPageTypeDefault",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePayPal/Public/BTPayPalRequest.h",
+      "line": 29,
+      "symbol": "BTPayPalRequestLandingPageType.BTPayPalRequestLandingPageTypeLogin",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePayPal/Public/BTPayPalRequest.h",
+      "line": 30,
+      "symbol": "BTPayPalRequestLandingPageType.BTPayPalRequestLandingPageTypeBilling",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePayPal/Public/BTPayPalRequest.h",
+      "line": 41,
+      "symbol": "BTPayPalRequestUserAction.BTPayPalRequestUserActionDefault",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePayPal/Public/BTPayPalRequest.h",
+      "line": 42,
+      "symbol": "BTPayPalRequestUserAction.BTPayPalRequestUserActionCommit",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePayPal/Public/BraintreePayPal.h",
+      "line": 4,
+      "symbol": "BraintreePayPalVersionNumber",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePayPal/Public/BraintreePayPal.h",
+      "line": 7,
+      "symbol": "BraintreePayPalVersionString",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePaymentFlow/Public/BTPaymentFlowDriver.h",
+      "line": 13,
+      "symbol": "BTPaymentFlowDriverErrorDomain",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePaymentFlow/Public/BTPaymentFlowDriver.h",
+      "line": 15,
+      "symbol": "BTPaymentFlowDriverErrorType",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePaymentFlow/Public/BTPaymentFlowDriver.h",
+      "line": 15,
+      "symbol": "BTPaymentFlowDriverErrorType",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePaymentFlow/Public/BTPaymentFlowDriver.h",
+      "line": 16,
+      "symbol": "BTPaymentFlowDriverErrorType.BTPaymentFlowDriverErrorTypeUnknown",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePaymentFlow/Public/BTPaymentFlowDriver.h",
+      "line": 127,
+      "symbol": "BTPaymentFlowDriver.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePaymentFlow/Public/BraintreePaymentFlow.h",
+      "line": 3,
+      "symbol": "BraintreePaymentFlowVersionNumber",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePaymentFlow/Public/BraintreePaymentFlow.h",
+      "line": 5,
+      "symbol": "BraintreePaymentFlowVersionString",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePaymentFlow/Public/Ideal/BTIdealRequest.h",
+      "line": 49,
+      "symbol": "BTIdealRequestDelegate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePaymentFlow/Public/ThreeDSecure/BTPaymentFlowDriver+ThreeDSecure.h",
+      "line": 10,
+      "symbol": "BTThreeDSecureFlowErrorDomain",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePaymentFlow/Public/ThreeDSecure/BTPaymentFlowDriver+ThreeDSecure.h",
+      "line": 11,
+      "symbol": "BTThreeDSecureFlowErrorType",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePaymentFlow/Public/ThreeDSecure/BTPaymentFlowDriver+ThreeDSecure.h",
+      "line": 11,
+      "symbol": "BTThreeDSecureFlowErrorType",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePaymentFlow/Public/ThreeDSecure/BTPaymentFlowDriver+ThreeDSecure.h",
+      "line": 12,
+      "symbol": "BTThreeDSecureFlowErrorType.BTThreeDSecureFlowErrorTypeUnknown",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeUnionPay/Public/BTCardCapabilities.h",
+      "line": 3,
+      "symbol": "BTCardCapabilities",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeUnionPay/Public/BTCardCapabilities.h",
+      "line": 5,
+      "symbol": "BTCardCapabilities.isUnionPay",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeUnionPay/Public/BTCardCapabilities.h",
+      "line": 6,
+      "symbol": "BTCardCapabilities.isDebit",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeUnionPay/Public/BTCardCapabilities.h",
+      "line": 7,
+      "symbol": "BTCardCapabilities.supportsTwoStepAuthAndCapture",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeUnionPay/Public/BTCardCapabilities.h",
+      "line": 8,
+      "symbol": "BTCardCapabilities.isSupported",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeUnionPay/Public/BTCardClient+UnionPay.h",
+      "line": 11,
+      "symbol": "BTCardClient(UnionPay)",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.category",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeUnionPay/Public/BTConfiguration+UnionPay.h",
+      "line": 7,
+      "symbol": "BTConfiguration(UnionPay)",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.category",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeUnionPay/Public/BraintreeUnionPay.h",
+      "line": 3,
+      "symbol": "BraintreeUnionPayVersionNumber",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeUnionPay/Public/BraintreeUnionPay.h",
+      "line": 5,
+      "symbol": "BraintreeUnionPayVersionString",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeVenmo/Public/BTConfiguration+Venmo.h",
+      "line": 7,
+      "symbol": "BTConfiguration(Venmo)",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.category",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeVenmo/Public/BTVenmoAccountNonce.h",
+      "line": 8,
+      "symbol": "BTVenmoAccountNonce",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeVenmo/Public/BTVenmoDriver.h",
+      "line": 11,
+      "symbol": "BTVenmoDriverErrorDomain",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeVenmo/Public/BTVenmoDriver.h",
+      "line": 13,
+      "symbol": "BTVenmoDriverErrorType",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeVenmo/Public/BTVenmoDriver.h",
+      "line": 13,
+      "symbol": "BTVenmoDriverErrorType",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeVenmo/Public/BTVenmoDriver.h",
+      "line": 14,
+      "symbol": "BTVenmoDriverErrorType.BTVenmoDriverErrorTypeUnknown",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeVenmo/Public/BTVenmoDriver.h",
+      "line": 38,
+      "symbol": "BTVenmoDriver",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeVenmo/Public/BTVenmoDriver.h",
+      "line": 48,
+      "symbol": "BTVenmoDriver.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeVenmo/Public/BraintreeVenmo.h",
+      "line": 3,
+      "symbol": "BraintreeVenmoVersionNumber",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreeVenmo/Public/BraintreeVenmo.h",
+      "line": 5,
+      "symbol": "BraintreeVenmoVersionString",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/dmerino/work/braintree-ios"
+}
