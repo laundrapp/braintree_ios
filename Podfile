@@ -4,7 +4,7 @@ platform :ios, '8.0'
 workspace 'Braintree.xcworkspace'
 
 target 'Demo' do
-  platform :ios, '9.0'
+  platform :ios, '8.0'
 
   pod 'AFNetworking', '~> 2.6.0'
   pod 'CardIO'
